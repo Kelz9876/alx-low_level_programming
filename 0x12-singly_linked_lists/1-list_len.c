@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "list.h"
 #include <stlib.h>
 
@@ -8,7 +7,7 @@
  *
  */
 
-size_t list_len(const list_t *h);
+size_t list_len(const list_t *h)
 {
 	size_t n = 0;
 
