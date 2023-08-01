@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "list.h"
-#include <stdef.h>
+#include <stlib.h>
 
 /* number of elements in a linked list
  *
