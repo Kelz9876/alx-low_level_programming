@@ -8,11 +8,13 @@
  *
  */
 
-int _isupper(int c)
+int main(void)
 {
-	if (c >= 65 && c <= 90)
-	{
-		return (1);
-	}
+	char c;
+
+	c = 'A';
+	printf("%c: %d\n", c, _isupper(c));
+	c ='a';
+	printf("%c: %d\n", c , _isupper(c));
 	return (0);
 }
