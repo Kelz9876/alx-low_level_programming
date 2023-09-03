@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "main.h"
 
-/* A function that checks for upper case character
+/*
+ * A function that checks for upper case character
  * main checks the code 
  * returns : 0
  */
