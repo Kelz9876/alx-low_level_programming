@@ -6,7 +6,7 @@
  *
  * The main function checks the code
  *
- * returns : 0
+ * Return: 0
  */
 
 int _isupper(int c)
