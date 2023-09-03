@@ -1,12 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-/* a function that checks for upper case character
- *
- *
- *
- *
- */
+// a function that checks for upper case character
 
 int main(void)
 {
