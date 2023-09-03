@@ -3,7 +3,9 @@
 
 /*
  * A function that checks for upper case character
- * main checks the code
+ *
+ * The main function checks the code
+ *
  * returns : 0
  */
 
