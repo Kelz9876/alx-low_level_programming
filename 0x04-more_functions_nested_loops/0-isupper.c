@@ -8,6 +8,9 @@ int _isupper(int c)
      * This function checks whether the input character 'c'
      * is an uppercase letter (A-Z).
      *
+     * _isupper - Checks if a character is an uppercase letter
+     *
+     *
      * Return: 1 if 'c' is an uppercase letter, 0 otherwise.
      */
 
