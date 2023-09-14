@@ -3,14 +3,14 @@
 #include "main.h"
 #include "3-calc.h"
 
-/* main - prints the result of operation
+/*
+ * Main - prints the result of operation
  *
  *
  * @argc: argument
  *
  *
- * @argv: array of pointer
- *
+ * @argv: array of point
  *
  *	return: Always 0
  */
@@ -18,6 +18,7 @@
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
 	int num1, num2;
+
 	char *op
 
 		if (arg != 4)
@@ -35,8 +36,10 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 
 	printf("Error\n");
 	exit(100);
+
 	}
 
-	printf("%d\n",get_op_func(op)(num1,num2));
+	printf("%d\n", get_op_func(op)(num1, num2));
+
 	retunr(0)
 }
